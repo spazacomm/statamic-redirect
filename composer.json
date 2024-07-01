@@ -1,5 +1,5 @@
 {
-    "name": "rias/statamic-redirect",
+    "name": "spazacomm/statamic-redirect",
     "require": {
         "ext-json": "*",
         "php": "^7.4|^8.0",
@@ -13,12 +13,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Rias\\StatamicRedirect\\": "src"
+            "Spazacomm\\StatamicRedirect\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Rias\\StatamicRedirect\\Tests\\": "tests"
+            "Spazacomm\\StatamicRedirect\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -36,7 +36,7 @@
         },
         "laravel": {
             "providers": [
-                "Rias\\StatamicRedirect\\RedirectServiceProvider"
+                "Spazacomm\\StatamicRedirect\\RedirectServiceProvider"
             ]
         }
     },
