@@ -36,7 +36,7 @@
         },
         "laravel": {
             "providers": [
-                "Ria\\StatamicRedirect\\RedirectServiceProvider"
+                "Rias\\StatamicRedirect\\RedirectServiceProvider"
             ]
         }
     },
