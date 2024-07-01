@@ -13,12 +13,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spazacomm\\StatamicRedirect\\": "src"
+            "Rias\\StatamicRedirect\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spazacomm\\StatamicRedirect\\Tests\\": "tests"
+            "Rias\\StatamicRedirect\\Tests\\": "tests"
         }
     },
     "scripts": {
